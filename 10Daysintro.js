@@ -1,3 +1,5 @@
+// Day 0: Hello World
+
 'use strict';
 
 // process.stdin.resume();
