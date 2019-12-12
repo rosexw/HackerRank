@@ -1,5 +1,7 @@
 // Day 0: Hello World
 
+// Tues Dec 10
+
 'use strict';
 
 // process.stdin.resume();

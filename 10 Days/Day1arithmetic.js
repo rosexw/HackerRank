@@ -1,4 +1,6 @@
-// // Day 1: Arithmetic Operators
+// Day 1: Arithmetic Operators
+
+// Wed Dec 11
 
 // Objective
 

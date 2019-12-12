@@ -1,5 +1,7 @@
 // 10Days Day 1 factorial
 
+// Wed Dec 11, 2019
+
 'use strict';
 
 function factorial(n){

@@ -1,6 +1,8 @@
 // 100DaysDay1letconst.js
 // Day 1: Let and Const
 
+//Wed Dec 11, 2019
+
 // 1 more challenge to get your next star!
 // Points: 4/5
 // Days of JS

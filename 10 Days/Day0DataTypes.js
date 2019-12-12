@@ -1,5 +1,7 @@
 // Day 0: data types
 
+// Tues Dec 10
+
 // Objective
 
 // Today, we're discussing data types. Check out the attached tutorial for more details.
