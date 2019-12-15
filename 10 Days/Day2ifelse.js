@@ -1,10 +1,7 @@
 // 10Days Day 2 Conditional Statements If Else
 
-<<<<<<< HEAD
 // Thurs Dec 12, 2019
 
-=======
->>>>>>> 1b78bf1965e8a548db0ba1e153f9a5c94a961c76
 // Objective
 
 // In this challenge, we learn about if-else statements. Check out the attached tutorial for more details.
