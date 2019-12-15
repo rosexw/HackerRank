@@ -1,6 +1,17 @@
+<<<<<<< HEAD
 // Day 2 loops
 // Thursday, Dec 12, 2019
 
+=======
+
+// Problem
+// Submissions
+// Leaderboard
+// Discussions
+// Editorial
+// Topics
+// Objective
+>>>>>>> 1b78bf1965e8a548db0ba1e153f9a5c94a961c76
 
 // In this challenge, we practice looping over the characters of string. Check out the attached tutorial for more details.
 

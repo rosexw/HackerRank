@@ -1,7 +1,10 @@
 // Day 2: Conditional Statements: Switch
 
+<<<<<<< HEAD
 // Thursday, Dec 13, 2019
 
+=======
+>>>>>>> 1b78bf1965e8a548db0ba1e153f9a5c94a961c76
 // 4 more challenges to get your next star!
 // Points: 6/10
 // Days of JS
